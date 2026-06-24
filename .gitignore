@@ -1,0 +1,9 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Documentation & Specification drafts (Jekyll/Pages build ignores)
+DESIGN.md
+texts project Luli (1).txt
+תבנית לתכנון אתר - פרויקט לולי V2.txt
+path.txt
